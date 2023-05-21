@@ -1,0 +1,12 @@
+
+.lista-leis {
+	color: #000;
+}
+
+a:hover .row{
+	background:#EEE;
+}
+
+a:hover {
+	color: #000;
+}
