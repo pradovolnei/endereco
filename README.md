@@ -24,6 +24,9 @@ Inicie o servidor de desenvolvimento:
 
 Abra um navegador da web e acesse a URL fornecida pelo servidor de desenvolvimento.
 
+# OBS
+Por algum motivo, meu composer local não estava permitindo a instalação de bibliotecas para ler arquivos xls.
+Por isso eu fiz essa carga em PHP puro.
 
 
 
